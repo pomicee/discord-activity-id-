@@ -60,7 +60,7 @@ Use these application IDs to launch embedded Discord games and apps through bots
 
 Want to add a missing activity? Help improve this list by submitting a pull request!
 
-[![Contribute](https://img.shields.io/badge/Contribute-Add%20an%20Activity-blue?style=for-the-badge)](https://github.com/pomicee/discord-activity-id/fork)
+[![Contribute](https://img.shields.io/badge/Contribute-Add%20an%20Activity-blue?style=for-the-badge)]((https://github.com/pomicee/discord-activity-id-/fork)
 
 ---
 
